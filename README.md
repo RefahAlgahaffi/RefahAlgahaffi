@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RefahAlgahaffi
-- 👀 I’m interested in learning anything new useful.
+- 👀 I’m interested in learning anything new and useful.
 - 🌱 I’m currently learning a web development as front end developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
